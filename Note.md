@@ -1,7 +1,6 @@
 # Student
 * git
-* environment setup
-* command line interface
+* environment setup (VScode, python, git)
 * dictionary, list, tuple
 * for...loop, while
 * function
@@ -10,6 +9,10 @@
 * debugger
 
 # Developer
+* Linux basic
 * software architecture
 * class
 * module
+
+# AI
+* pytorch
